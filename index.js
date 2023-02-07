@@ -29,7 +29,7 @@ yargs.command({
       email:argv.email,
       mobile:argv.mobile,
   };
-  //panggil fungsio main dengan parameter contact
+  //memanggil fungsi main dengan parameter contact
   main(contact);
   },  
 });
