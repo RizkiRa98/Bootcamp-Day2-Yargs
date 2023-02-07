@@ -40,7 +40,7 @@ const pertanyaan = (question) =>{
     console.log("Data Tersimpan")
  }
 
-//export fungsi agar bisa digunakan diluar file
+//export fungsi agar bisa digunakan diluar file fungsi
  module.exports = {
   pertanyaan,
   saveJawaban,
